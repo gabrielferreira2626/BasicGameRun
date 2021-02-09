@@ -1,0 +1,143 @@
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe.config
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.dll
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.pdb
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.xml
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.Properties.Resources.resources
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.SharpGLForm.resources
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CopyComplete
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+C:\Users\Hugo\Desktop\CG_Exemplo_Base\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe.config
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.pdb
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.dll
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.dll
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.dll
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.pdb
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.xml
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.xml
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.pdb
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.xml
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.Properties.Resources.resources
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.SharpGLForm.resources
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.GenerateResource.cache
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CoreCompileInputs.cache
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CopyComplete
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+D:\Hugo\3º Ano\1º Semestre\Computação Grafica\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe.config
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.dll
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.pdb
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.xml
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.Properties.Resources.resources
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.SharpGLForm.resources
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.GenerateResource.cache
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CoreCompileInputs.cache
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CopyComplete
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+C:\Users\Cláudio Baptista\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe.config
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.dll
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.pdb
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.xml
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.SharpGLForm.resources
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CopyComplete
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+C:\Users\Hugo\Desktop\Ficha1C#\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe.config
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.dll
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.xml
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.SharpGLForm.resources
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Hugo\TDM\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe.config
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.dll
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.xml
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.SharpGLForm.resources
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+C:\Users\Utilizador\Desktop\Hugo\TDM\3ºAno\1º Semestre\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe.config
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.exe
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL_CG_TDM.pdb
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.dll
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.dll
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.pdb
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.xml
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\bin\Debug\SharpGL.WinForms.xml
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.Properties.Resources.resources
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.SharpGLForm.resources
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.GenerateResource.cache
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CoreCompileInputs.cache
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Computação Gráfica\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csproj.CopyComplete
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Jogo - Projeto Final\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.csprojAssemblyReference.cache
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Jogo - Projeto Final\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.exe
+C:\Users\odark\OneDrive\Ambiente de Trabalho\Jogo - Projeto Final\Jogo\SharpGLRibadao\obj\x86\Debug\SharpGL_CG_TDM.pdb
